@@ -46,4 +46,4 @@ Welcome to the Gym App project! This mobile application, built with React Native
 ![image](https://github.com/Baldziutki/GymAppMobile/assets/107717515/0a885f07-e398-430a-a7e1-cace272c838b)
 
 
-
+Was created together with [piolipski](https://github.com/piolipski)
